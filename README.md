@@ -24,5 +24,38 @@ A simple Sign Language Translator project that predicts sign language gestures u
 source ./env/bin/activate
 ```
 
+Windows:
 
-  
+[Provide the command for activating virtual environment on Windows]
+
+```bash
+cd src/
+```
+
+### Run the Prediction
+
+Use the following commands to run the prediction script:
+
+```bash
+python predict.py
+```
+
+or
+
+```bash
+python3 predict.py
+```
+
+Make sure you have the necessary dependencies installed and the virtual environment activated before running the prediction script.
+
+## Dependencies
+
+List any external dependencies that users need to install before running your project.
+
+Example:
+
+- Python 3.x
+- NumPy
+- MediaPipe
+- OpenCV
+- PyTorch
