@@ -46,13 +46,14 @@ or
 python3 predict.py
 ```
 
-## The Demo : 
+### The Demo : 
 
-<video src='https://github.com/JamorMoussa/SignLanguageTranslator/blob/main/video/Listen_to_me.mp4' width=180/>
+https://github.com/JamorMoussa/SignLanguageTranslator/assets/116987044/185b0397-4544-4338-a48a-53f5cc7d30a1
+
 
 Make sure you have the necessary dependencies installed and the virtual environment activated before running the prediction script.
 
-## Dependencies
+### Dependencies
 
 List any external dependencies that users need to install before running your project.
 
