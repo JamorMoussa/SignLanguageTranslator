@@ -46,6 +46,10 @@ or
 python3 predict.py
 ```
 
+## The Demo : 
+
+<video src='https://github.com/JamorMoussa/SignLanguageTranslator/blob/main/video/Listen_to_me.mp4' width=180/>
+
 Make sure you have the necessary dependencies installed and the virtual environment activated before running the prediction script.
 
 ## Dependencies
