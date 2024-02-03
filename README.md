@@ -55,10 +55,6 @@ Make sure you have the necessary dependencies installed and the virtual environm
 
 ### Dependencies
 
-List any external dependencies that users need to install before running your project.
-
-Example:
-
 - Python 3.x
 - NumPy
 - MediaPipe
